@@ -1,4 +1,4 @@
-package pl.waw.maslak.Time;
+package pl.waw.maslak.TimeConverter;
 /**
  *
  * @author maslak
