@@ -3,7 +3,9 @@ package pl.waw.maslak.TimeConverter;
 /**
  *
  * @author maslak
+ * AD 2001
  */
+
 import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
@@ -78,7 +80,7 @@ class TimeConvert extends GregorianCalendar {
 
     public static void main(String[] args) {
         TimeConvert test = new TimeConvert();
-        System.out.println(test.Convert("2015-03-14 12:08:00"));
+        System.out.println(test.Convert("2006-03-14 12:08:00"));
         System.out.println(test.Convert(1426331285));
     }
 }
