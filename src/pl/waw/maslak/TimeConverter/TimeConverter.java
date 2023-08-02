@@ -2,7 +2,6 @@ package pl.waw.maslak.TimeConverter;
 /**
  *
  * @author maslak
- * AD 2001
  */
 import java.awt.*;
 import java.awt.event.*;
